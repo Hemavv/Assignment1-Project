@@ -1,0 +1,230 @@
+body{
+    padding:0%;
+    margin: 0%;
+}
+.leftnav
+{
+    background-color:rgba(0,29,45);
+    float: left;
+    width:20%;
+    height:121%; 
+    color: white;
+}
+img {
+    background-color: lightgrey;
+    width: 15%;
+    height:4%;
+    border: 5px solid darkgrey;
+    padding: 3%;
+    margin: 5%;
+    margin-left: 20%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+p{
+    text-align: center;
+}
+.rightnav
+{
+    background-image:'prj\cover.jpg';
+    float: right;
+    width:80%;
+    height:40%;
+    margin-top: 0%;
+}
+.cover{
+    position:relative;
+   top:0;
+   left:0;
+   width:100%;
+   height:100%;
+   padding: 0%;
+   border:none;
+   margin-left: 0%;
+   margin-top: 0%;
+}
+.pro
+{
+    position: absolute;
+    top: 20%;
+    left: 10%;
+    background-color: lightgrey;
+    width: 5%;
+    height:10%;
+    border: 5px groove darkgrey;
+    padding: 1%;
+    margin: 15%;
+    margin-left: 15%;
+    margin-top:1%;
+    
+}
+.topnav{
+    overflow: hidden;
+    background-color: rgba( 6,39,54);
+   padding:0%;
+   margin:0%;
+   margin-right: 0%;
+   margin-top :10%;
+   padding-left: 2%;
+   padding-top: 2%;
+   /* padding-bottom: -100%; */
+
+
+  }
+  .topnav a {
+   
+    color: #f2f2f2;
+    text-align: center;
+    padding: 1% 1%;
+    text-decoration:aqua;
+    font-size:100%;
+    margin-right: 2%;
+    margin-bottom: 2%;
+  }
+  
+  .topnav a:hover {
+    background-color: olive;
+    color: white;
+  }
+  
+  .pad{
+      
+      margin-left:23%;
+  }
+  .topnav a.active {
+    background-color: olive;
+    color: white;
+  }
+  .nav{
+    float:right;
+    width:3%;
+    height:3%;
+    margin-right:8%;
+    border:none;
+    padding:0;
+    margin-top:0%;
+  }
+  #drop{
+      float:right;
+      margin-right:-8%;
+  }
+
+.relative{
+    position: relative;
+    width: 70%;
+    height: 37%;   
+      border: 3px solid black ;
+      margin-left:20%;
+      margin-top:-12%;
+}
+.absolute{
+    border: 3px solid black ;
+                position: absolute;
+                top: 10%;
+                left: 3%;
+                width: 200%;
+                height: 10%;
+                margin-left:3%;
+      margin-top:2;
+}
+.relative1{
+    position: relative;
+    width: 70%;
+    height: 10%;
+    border: 3px solid black ;
+    margin-left:20%;
+    margin-top:-10%;
+}
+.inside{
+    width:10%;
+     height:90%;
+     margin-right: 2%;
+      padding: 0%;
+      border:none;
+      margin-top: 0%;
+      float: right;
+}
+.inside1{
+    width:11%;
+     height:25%;
+    float: left;
+      padding: 0%;
+      border:none;
+      margin-top: 1%;
+}
+.inside2{
+    width:6%;
+     height:10%;
+    float: right;
+      padding: 0%;
+      border:none;
+      margin-top: 0%;
+      margin-right: 70%;
+}
+     
+.left{
+    width:9%;
+     height:15% ;
+     text-align:left;
+     margin-left: 5%;
+     padding:0%;
+     border: none;
+     margin-top: -1%;
+}
+.left2{
+    width:9%;
+     height:15% ;
+     text-align:left;
+     margin-left: 5%;
+     padding:0%;
+     border: none;
+     margin-top: -2%;
+}
+.left1{
+    width:55%;
+     height:12%;
+     text-align:left;
+     margin-left: 1%;
+     padding:0%;
+     border: none;
+   
+}
+.input{
+    padding:1%;
+    margin-left: 1%;
+    margin-top: 1%;
+    
+}
+.leftnav1
+{
+    background-color:rgba(7,56,70);
+    float: left;
+    width:60%;
+    height:66%;
+}
+.leftnav2
+{
+    background-color:  rgba( 0,29,45);
+   float: left;
+    width:20%;
+    height:66%; 
+    margin-right: 0%;
+    align-items: initial;
+}
+.rotate{
+    border-radius: 50%;
+    border:3px groove darkgrey;
+    width:10%;
+    height:7%;
+    margin-left: 0%;
+    float:right;
+    margin-right: 3%;
+    margin-top:0%;
+
+  }
+  h4{
+      margin-top:0%;
+      color: white;
+  }
